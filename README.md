@@ -1,27 +1,27 @@
 # Project: Poképlanner
 ## Contents
-### * Introduction
-####  * Objective
-####  * Design Brief
-### * Architecture
-####  * Risk Assessment
-####  * User Stories
-####  * Entity Reference Diagram (ERD)
-####  * Test Analysis
-####  * Continuous Integration (CI)
-### * Development
-####  * Unit Testing
-####  * Front-end Design
-####  * Integration Testing
-### * Notes
-####  * Changes in Risk Assessment
-####  * Refactoring
-####  * Extra Functionality
-####  * Future Idead & Improvements
-### * Appendix
-####  * Licensing
-####  * Contributors
-####  * Acknowledgements
+ ### * Introduction
+  ####  * Objective
+  ####  * Design Brief
+ ### * Architecture
+  ####  * Risk Assessment
+  ####  * User Stories
+  ####  * Entity Reference Diagram (ERD)
+  ####  * Test Analysis
+  ####  * Continuous Integration (CI)
+ ### * Development
+  ####  * Unit Testing
+  ####  * Front-end Design
+  ####  * Integration Testing
+ ### * Notes
+  ####  * Changes in Risk Assessment
+  ####  * Refactoring
+  ####  * Extra Functionality
+  ####  * Future Idead & Improvements
+ ### * Appendix
+  ####  * Licensing
+  ####  * Contributors
+  ####  * Acknowledgements
 
 ## Introduction
 ____
