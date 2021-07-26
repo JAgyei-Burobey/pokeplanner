@@ -1,0 +1,20 @@
+{% extends 'layout.html' %} 
+
+{% block body %}
+
+<h1>Poképlanner version 1.0.0</h1>
+<br>
+<h2>Current entries</h2>
+    {% for pocket in all_pokemon %}
+        {{ pocket.id }} | {{ pocket.pkname }} | {{ pocket.nickname }} |
+        <a href="{{ url_for('update', id=pocket.id) }}">Edit</a>
+        <a href="{{ url_for('delete', id=pocket.id) }}">Delete</a>
+        <br>
+    {% endfor %}
+    <br>
+<h2>Stored abilities</h2>
+    {% for skill in all_abilities %}
+    {{ skill.abname }}
+    {% endfor %}
+    <br>
+{% endblock body %}

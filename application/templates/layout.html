@@ -1,0 +1,13 @@
+
+<body>
+    <div class="navbar">
+        
+        <a href="{{ url_for('home') }}">Home</a>
+        <a href="{{ url_for('create_poke') }}">Generate Pokémon</a>
+        <a href="{{ url_for('create_ability') }}">Generate Ability</a>
+    </div>
+
+    {% block body %}
+
+    {% endblock body %}
+</body>

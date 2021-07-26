@@ -1,0 +1,18 @@
+{% extends 'layout.html' %}
+
+{% block title %} 
+    Creative title
+{% endblock title %}
+
+{% block body %}
+<form action = "" method = "POST">
+    {{form.hidden_tag() }}
+    {% block form_contents %}
+
+    {{ form.abname.label }} {{ form.abname }}
+
+    {% endblock form_contents %}
+    <br>
+    {{ form.submit }}
+</form>
+{% endblock body %}
