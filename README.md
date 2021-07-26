@@ -1,27 +1,27 @@
 # Project: Poképlanner
 ## Contents
-### *Introduction
-####  *Objective
-####  *Design Brief
-### *Architecture
-####  *Risk Assessment
-####  *User Stories
-####  *Entity Reference Diagram (ERD)
-####  *Test Analysis
-####  *Continuous Integration (CI)
-### *Development
-####  *Unit Testing
-####  *Front-end Design
-####  *Integration Testing
-### *Notes
-####  *Changes in Risk Assessment
-####  *Refactoring
-####  *Extra Functionality
-####  *Future Idead & Improvements
-### *Appendix
-####  *Licensing
-####  *Contributors
-####  *Acknowledgements
+### * Introduction
+####  * Objective
+####  * Design Brief
+### * Architecture
+####  * Risk Assessment
+####  * User Stories
+####  * Entity Reference Diagram (ERD)
+####  * Test Analysis
+####  * Continuous Integration (CI)
+### * Development
+####  * Unit Testing
+####  * Front-end Design
+####  * Integration Testing
+### * Notes
+####  * Changes in Risk Assessment
+####  * Refactoring
+####  * Extra Functionality
+####  * Future Idead & Improvements
+### * Appendix
+####  * Licensing
+####  * Contributors
+####  * Acknowledgements
 
 ## Introduction
 ____
@@ -30,14 +30,14 @@ ____
 <p>The objective of this project is:</p><br>
 >To develop a CRUD webapp using supporting tools, methodoligies and technology which have been covered within the training.
 <p>These are the specific criteria of the project:<br>
- *A Functioning CRUD application developed in Python language
- *A Functioning front-end HTML using Flask
- *A User Story board: Jira
- *Relational database, with at least 1 one-to-many relationship
- *Clear documentation as represented by a Markdown file
- *A Detailed risk assessment in the form of a spreadsheet
- *Automated testing, of both Unit and Integrated testing: Jenkins and Selenium respectively
- *Full integration into VCS: Github
+ * A Functioning CRUD application developed in Python language.<br>
+ * A Functioning front-end HTML using Flask.<br>
+ * A User Story board: Jira.<br>
+ * Relational database, with at least 1 one-to-many relationship.<br>
+ * Clear documentation as represented by a Markdown file.<br>
+ * A Detailed risk assessment in the form of a spreadsheet.<br>
+ * Automated testing, of both Unit and Integrated testing: Jenkins and Selenium respectively.<br>
+ *Full integration into VCS: Github.<br>
 </p>
 
 
